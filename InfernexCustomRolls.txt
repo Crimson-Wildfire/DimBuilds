@@ -1,0 +1,46 @@
+title:InfernexCustomRolls
+description:my balls hurt
+
+// Jorum's Claw - smoot like butte ()
+dimwishlist:item=62937067&perks=588594999,1015611457
+dimwishlist:item=62937067&perks=1168162263,1015611457
+
+
+// Imperial Decree - pvp maybes? (pvp)
+//notes: tags:pvp
+dimwishlist:item=318443586&perks=3161816588,47981717
+
+
+// Harsh Language - nice to have some more wavy bois (pve)
+//notes: tags:pve
+dimwishlist:item=1606497639&perks=2869569095,2048641572
+dimwishlist:item=1606497639&perks=968510818,2048641572
+
+
+// Royal Executioner - incandesent ig, idk man ()
+dimwishlist:item=1720503118&perks=4293542123
+
+
+// Riptide - just in case man (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=2715240478&perks=
+
+
+// Trust - You Bought the ornament, now go make use of it (PvE) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2850664015&perks=1168162263,3038247973
+dimwishlist:item=2850664015&perks=1168162263,4293542123
+dimwishlist:item=2850664015&perks=247725512,3038247973
+dimwishlist:item=2850664015&perks=247725512,4293542123
+
+
+// Trust - Use that ornament bruh PvP (pvp)
+//notes: tags:pvp
+dimwishlist:item=2850664015&perks=1482024992,3142289711,47981717,3038247973
+dimwishlist:item=2850664015&perks=1482024992,3142289711,247725512,3038247973
+
+
+// Death's Razor - ourple ()
+dimwishlist:item=3371413056&perks=2048641572
+
+
