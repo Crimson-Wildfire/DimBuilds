@@ -17,6 +17,11 @@ dimwishlist:item=1606497639&perks=2869569095,2048641572
 dimwishlist:item=1606497639&perks=968510818,2048641572
 
 
+// Harsh Language - repulyop ()
+dimwishlist:item=1606497639&perks=2869569095,776531651
+dimwishlist:item=1606497639&perks=968510818,776531651
+
+
 // Royal Executioner - incandesent ig, idk man ()
 dimwishlist:item=1720503118&perks=4293542123
 
@@ -40,7 +45,19 @@ dimwishlist:item=2850664015&perks=1482024992,3142289711,47981717,3038247973
 dimwishlist:item=2850664015&perks=1482024992,3142289711,247725512,3038247973
 
 
+// Hung Jury SR4 (Adept) - kinet trem (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2883684343&perks=3700496672,3891536761
+dimwishlist:item=2883684343&perks=247725512,3891536761
+
+
 // Death's Razor - ourple ()
 dimwishlist:item=3371413056&perks=2048641572
+
+
+// Hung Jury SR4 - non adept tremors (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3832743906&perks=247725512,3891536761
+dimwishlist:item=3832743906&perks=3700496672,3891536761
 
 
