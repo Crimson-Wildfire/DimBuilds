@@ -11,6 +11,24 @@ dimwishlist:item=62937067&perks=1168162263,1015611457
 dimwishlist:item=318443586&perks=3161816588,47981717
 
 
+// Taraxippos (god-pvp,pvp)
+//notes: tags:god-pvp,pvp
+dimwishlist:item=1389546626&perks=2387244414,3619207468
+dimwishlist:item=1389546626&perks=2387244414,3038247973
+
+
+// Taraxippos (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=1389546626&perks=1168162263,831391274
+dimwishlist:item=1389546626&perks=1354429876,831391274
+
+
+// Taraxippos (pve)
+//notes: tags:pve
+dimwishlist:item=1389546626&perks=1354429876,3751912585
+dimwishlist:item=1389546626&perks=1168162263,3751912585
+
+
 // Harsh Language - nice to have some more wavy bois (pve)
 //notes: tags:pve
 dimwishlist:item=1606497639&perks=2869569095,2048641572
